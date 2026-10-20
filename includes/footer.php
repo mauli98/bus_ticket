@@ -1,0 +1,1 @@
+</main><footer>Bus Ticket Management System · PHP + MySQL learning project</footer></body></html>
